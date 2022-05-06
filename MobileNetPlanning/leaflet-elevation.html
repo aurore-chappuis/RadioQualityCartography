@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+	<title>leaflet-elevation.js</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<style>
+		html,
+		body,
+		.leaflet-map,
+		.elevation-div {
+			height: 100%;
+			width: 100%;
+			padding: 0px;
+			margin: 0px;
+		}
+
+		.leaflet-map {
+			height: 55%;
+			max-height: 100vh;
+		}
+
+		.elevation-div {
+			height: 25%;
+			font: 12px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+		}
+	</style>
+
+	<!-- leaflet-ui -->
+	<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+	<script src="https://unpkg.com/leaflet-ui@0.5.0/dist/leaflet-ui.js"></script>
+
+	<!-- leaflet-elevation -->
+	<link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@1.6.7/dist/leaflet-elevation.min.css" />
+	<script src="https://unpkg.com/@raruto/leaflet-elevation@1.6.7/dist/leaflet-elevation.min.js"></script>
+
+</head>
+
+<body>
+
+	<div id="map" class="leaflet-map"></div>
+
+	<script>
+		var opts = {
+			map: {
+				mapTypeId: 'satellite',
+				center: [41.4583, 12.7059],
+				zoom: 5,
+				fullscreenControl: false,
+				resizerControl: true,
+				preferCanvas: true,
+				rotate: true,
+				bearing: -25,
+				rotateControl: {
+					closeOnZeroBearing: true
+				},
+			},
+			elevationControl: {
+				url: "https://raruto.github.io/leaflet-elevation/examples/demo.tcx",
+				options: {
+					theme: "lightblue-theme",
+					collapsed: false,
+					autohide: false,
+					autofitBounds: true,
+					position: "bottomleft",
+					detached: true,
+					summary: "inline",
+					imperial: false,
+					// altitude: "disabled",
+					slope: "disabled",
+					speed: false,
+					acceleration: false,
+					time: "summary",
+					legend: true,
+					followMarker: true,
+					almostOver: true,
+					distanceMarkers: false,
+					marker: 'elevation-line'
+				},
+			},
+			layersControl: {
+				options: {
+					collapsed: false,
+				},
+			},
+		};
+
+		var map = L.map('map', 'http://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}');
+
+		var controlElevation = L.control.elevation(opts.elevationControl.options);
+		var controlLayer = L.control.layers(null, null, opts.layersControl.options);
+
+		controlElevation.addTo(map);
+		controlLayer.addTo(map);
+
+		controlElevation.on('eledata_loaded', function(e) {
+			controlLayer.addOverlay(e.layer, e.name);
+		});
+
+		controlElevation.load(opts.elevationControl.url);
+	</script>
+
+	<!-- i18n -->
+	<script>
+
+		// Register a custom locale
+		L.registerLocale('en:18', {
+			"Acceleration"      : "Acceleration",
+			"Altitude"          : "Elevation",
+			"Slope"             : "Slope",
+			"Speed"             : "Velocity",
+			"Total Length: "    : "L: ",
+			"Max Elevation: "   : "E Max: ",
+			"Min Elevation: "   : "E Min: ",
+			"Total Time: "      : "T: ",
+			"Total Ascent: "    : "Asc: ",
+			"Total Descent: "   : "Desc: ",
+			"Min Slope: "       : "S Min: ",
+			"Max Slope: "       : "S Max: ",
+			"Min Speed: "       : "V Min: ",
+			"Max Speed: "       : "V Max: ",
+			"Avg Speed: "       : "V Avg: ",
+			"Min Acceleration: ": "A Min: ",
+			"Max Acceleration: ": "A Max: ",
+			"Avg Acceleration: ": "A Avg: ",
+		});
+
+		// Enable a custom locale
+		// L.setLocale('en:18');
+
+	</script>
+
+	<a href="https://github.com/Raruto/leaflet-elevation" class="view-on-github" style="position: fixed;bottom: 30px;left: calc(50% - 81px);z-index: 9999;"> <img alt="View on Github" src="https://raruto.github.io/img/view-on-github.png" title="View on Github"
+		 width="163"> </a>
+
+</body>
+
+</html>

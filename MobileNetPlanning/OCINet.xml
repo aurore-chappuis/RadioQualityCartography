@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Cellule>ANAULICE_1800-1</Cellule>
+		<Longitude>-4.00699167</Longitude>
+		<Latitude>5.34290556</Latitude>
+		<Type>K_742047_1800_CI\K_742047_1800_CI</Type>
+		<Hauteur>16</Hauteur>
+		<Azimut>40</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>42.2271647114758</PIRE>
+		<Perte>6.698</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>723</BCCH>
+		<Frequences>~723/ 725/ 713~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>ANAULICE_1800-2</Cellule>
+		<Longitude>-4.00699167</Longitude>
+		<Latitude>5.34290556</Latitude>
+		<Type>K_742047_1800_CI\K_742047_1800_CI</Type>
+		<Hauteur>16</Hauteur>
+		<Azimut>170</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>42.6007138798507</PIRE>
+		<Perte>6.698</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>696</BCCH>
+		<Frequences>~696/ 711/ 733~</Frequences>
+	</record>
+	<record>
+		<Cellule>ANAULICE_1800-3</Cellule>
+		<Longitude>-4.00699167</Longitude>
+		<Latitude>5.34290556</Latitude>
+		<Type>K_742047_1800_CI\K_742047_1800_CI</Type>
+		<Hauteur>16</Hauteur>
+		<Azimut>255</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>42.8330122870355</PIRE>
+		<Perte>6.698</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>687</BCCH>
+		<Frequences>~687/ 707/ 728~</Frequences>
+	</record>
+	<record>
+		<Cellule>ANAULICE-1</Cellule>
+		<Longitude>-4.00699167</Longitude>
+		<Latitude>5.34290556</Latitude>
+		<Type>K_742047_900_CI\K_742047_900_CI</Type>
+		<Hauteur>16</Hauteur>
+		<Azimut>40</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>41.3033376849501</PIRE>
+		<Perte>5.96</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>88</BCCH>
+		<Frequences>~88/ 101~</Frequences>
+	</record>
+	<record>
+		<Cellule>ANAULICE-2</Cellule>
+		<Longitude>-4.00699167</Longitude>
+		<Latitude>5.34290556</Latitude>
+		<Type>K_742047_900_CI\K_742047_900_CI</Type>
+		<Hauteur>16</Hauteur>
+		<Azimut>170</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>41.2057393120585</PIRE>
+		<Perte>5.96</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>95</BCCH>
+		<Frequences>~95/ 108~</Frequences>
+	</record>
+	<record>
+		<Cellule>ANAULICE-3</Cellule>
+		<Longitude>-4.00699167</Longitude>
+		<Latitude>5.34290556</Latitude>
+		<Type>K_742047_900_CI\K_742047_900_CI</Type>
+		<Hauteur>16</Hauteur>
+		<Azimut>255</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>42.2271647114758</PIRE>
+		<Perte>5.96</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>99</BCCH>
+		<Frequences>~99/ 112/ 85~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>ARCHEVECHE_1800-1</Cellule>
+		<Longitude>-4.00752778</Longitude>
+		<Latitude>5.33016667</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>0</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.654879848909</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>708</BCCH>
+		<Frequences>~708/ 695/ 685~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>ARCHEVECHE_1800-2</Cellule>
+		<Longitude>-4.00752778</Longitude>
+		<Latitude>5.33016667</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>120</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.3645973384853</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>726</BCCH>
+		<Frequences>~726/ 699/ 706~</Frequences>
+	</record>
+	<record>
+		<Cellule>ARCHEVECHE_1800-3</Cellule>
+		<Longitude>-4.00752778</Longitude>
+		<Latitude>5.33016667</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>180</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.2651126136458</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>719</BCCH>
+		<Frequences>~719/ 713/ 715~</Frequences>
+	</record>
+	<record>
+		<Cellule>ARCHEVECHE-1</Cellule>
+		<Longitude>-4.00752778</Longitude>
+		<Latitude>5.33016667</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>0</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.7106786227174</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>110</BCCH>
+		<Frequences>~110/ 114~</Frequences>
+	</record>
+	<record>
+		<Cellule>ARCHEVECHE-2</Cellule>
+		<Longitude>-4.00752778</Longitude>
+		<Latitude>5.33016667</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>180</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.1329976408125</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>99</BCCH>
+		<Frequences>~99/ 97~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIA_ND_1800-1</Cellule>
+		<Longitude>-4.01610833</Longitude>
+		<Latitude>5.34218889</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>80</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>42.3299611039215</PIRE>
+		<Perte>9.632</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>705</BCCH>
+		<Frequences>~705/ 725/ 729~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BIA_ND_1800-2</Cellule>
+		<Longitude>-4.01610833</Longitude>
+		<Latitude>5.34218889</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>220</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.3445375115093</PIRE>
+		<Perte>9.632</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>680</BCCH>
+		<Frequences>~680/ 715/ 718~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIA_ND_1800-3</Cellule>
+		<Longitude>-4.01610833</Longitude>
+		<Latitude>5.34218889</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>320</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>44.0993312333129</PIRE>
+		<Perte>9.632</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>712</BCCH>
+		<Frequences>~712/ 734/ 732/ 722~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BIA_ND-1</Cellule>
+		<Longitude>-4.01610833</Longitude>
+		<Latitude>5.34218889</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>80</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>41.8752072083646</PIRE>
+		<Perte>8.588</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>106</BCCH>
+		<Frequences>~106/ 85~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIA_ND-2</Cellule>
+		<Longitude>-4.01610833</Longitude>
+		<Latitude>5.34218889</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>220</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>41.9589965240923</PIRE>
+		<Perte>8.588</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>97</BCCH>
+		<Frequences>~97/ 111~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIA_ND-3</Cellule>
+		<Longitude>-4.01610833</Longitude>
+		<Latitude>5.34218889</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>320</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>41.7026171539496</PIRE>
+		<Perte>8.588</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>120</BCCH>
+		<Frequences>~120/ 113~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIAFRA_1800-1</Cellule>
+		<Longitude>-4.00577812</Longitude>
+		<Latitude>5.31274139</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>160</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>45.6110138364906</PIRE>
+		<Perte>8.002</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>706</BCCH>
+		<Frequences>~706/ 687/ 709/ 728~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIAFRA_1800-2</Cellule>
+		<Longitude>-4.00577812</Longitude>
+		<Latitude>5.31274139</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>330</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>44.9415459401844</PIRE>
+		<Perte>8.002</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>702</BCCH>
+		<Frequences>~702/ 682/ 700~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIAFRA-1</Cellule>
+		<Longitude>-4.00577812</Longitude>
+		<Latitude>5.31274139</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>160</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.4439227368511</PIRE>
+		<Perte>7.128</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>117</BCCH>
+		<Frequences>~117/ 101~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIAFRA-2</Cellule>
+		<Longitude>-4.00577812</Longitude>
+		<Latitude>5.31274139</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>330</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.1597034545692</PIRE>
+		<Perte>7.128</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>122</BCCH>
+		<Frequences>~122/ 87/ 115~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIBLIOTHEQUE-1</Cellule>
+		<Longitude>-4.02402</Longitude>
+		<Latitude>5.33478</Latitude>
+		<Type>5860100(JAYBEAM)</Type>
+		<Hauteur>32</Hauteur>
+		<Azimut>30°</Azimut>
+		<PIRE>42.7415784926368</PIRE>
+		<Perte>11.914</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>107</BCCH>
+		<Frequences>~107/ 92~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIBLIOTHEQUE_1800-1</Cellule>
+		<Longitude>-4.02402</Longitude>
+		<Latitude>5.33478</Latitude>
+		<Type>5860100(JAYBEAM)</Type>
+		<Hauteur>32</Hauteur>
+		<Azimut>30°</Azimut>
+		<Tilt>-0.3</Tilt>
+		<PIRE>41.99</PIRE>
+		<Perte>11.914</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>733</BCCH>
+		<Frequences>~733/ 720/ 725/ 736~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIBLIOTHEQUE_1800-2</Cellule>
+		<Longitude>-4.02402</Longitude>
+		<Latitude>5.33478</Latitude>
+		<Type>5860100(JAYBEAM)</Type>
+		<Hauteur>32</Hauteur>
+		<Azimut>185°</Azimut>
+		<Tilt>-0.3</Tilt>
+		<PIRE>41.49</PIRE>
+		<Perte>11.914</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>683</BCCH>
+		<Frequences>~683/ 698/ 678~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BIBLIOTHEQUE_1800-3</Cellule>
+		<Longitude>-4.02402</Longitude>
+		<Latitude>5.33478</Latitude>
+		<Type>5860100(JAYBEAM)</Type>
+		<Hauteur>32</Hauteur>
+		<Azimut>290°</Azimut>
+		<Tilt>-0.3</Tilt>
+		<PIRE>42.41</PIRE>
+		<Perte>10.632</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>729</BCCH>
+		<Frequences>~729/ 709/ 690~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BIBLIOTHEQUE-3</Cellule>
+		<Longitude>-4.02402</Longitude>
+		<Latitude>5.33478</Latitude>
+		<Type>5860100(JAYBEAM)</Type>
+		<Hauteur>32</Hauteur>
+		<Azimut>185°</Azimut>
+		<PIRE>43.2428245529769</PIRE>
+		<Perte>10.632</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>101</BCCH>
+		<Frequences>~101/ 85~</Frequences>
+	</record>
+	<record>
+		<Cellule>BIBLIOTHEQUE-2</Cellule>
+		<Longitude>-4.02402</Longitude>
+		<Latitude>5.33478</Latitude>
+		<Type>5860100(JAYBEAM)</Type>
+		<Hauteur>32</Hauteur>
+		<Azimut>290°</Azimut>
+		<PIRE>43.2428245529769</PIRE>
+		<Perte>10.632</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>105</BCCH>
+		<Frequences>~105/ 90/ 122~</Frequences>
+	</record>
+	<record>
+		<Cellule>BLOKOSSO_1800-1</Cellule>
+		<Longitude>-3.99821722</Longitude>
+		<Latitude>5.32463903</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>50</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.747483460101</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>716</BCCH>
+		<Frequences>~716/ 679~</Frequences>
+	</record>
+	<record>
+		<Cellule>BLOKOSSO_1800-2</Cellule>
+		<Longitude>-3.99821722</Longitude>
+		<Latitude>5.32463903</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>270</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>45.4282542695918</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>712</BCCH>
+		<Frequences>~712/ 709/ 722~</Frequences>
+	</record>
+	<record>
+		<Cellule>BLOKOSSO-1</Cellule>
+		<Longitude>-3.99821722</Longitude>
+		<Latitude>5.32463903</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>50</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.8021124171161</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>119</BCCH>
+		<Frequences>~119/ 97~</Frequences>
+	</record>
+	<record>
+		<Cellule>BLOKOSSO-2</Cellule>
+		<Longitude>-3.99821722</Longitude>
+		<Latitude>5.32463903</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>270</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.7106786227174</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>101</BCCH>
+		<Frequences>~101/ 91/ 95~</Frequences>
+	</record>
+	<record>
+		<Cellule>BORIJA-1</Cellule>
+		<Longitude>-4.01482</Longitude>
+		<Latitude>5.31764</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>22.19</Hauteur>
+		<Azimut>62°/13°</Azimut>
+		<PIRE>43.541084391474</PIRE>
+		<Perte>8.71268</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>109</BCCH>
+		<Frequences>~109/ 124~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BORIJA_1800-1</Cellule>
+		<Longitude>-4.01482</Longitude>
+		<Latitude>5.31764</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>22.18</Hauteur>
+		<Azimut>62°/13°</Azimut>
+		<Tilt>-1.6</Tilt>
+		<PIRE>41.79</PIRE>
+		<Perte>8.7192</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>714</BCCH>
+		<Frequences>~714/ 685/ 708~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BORIJA_1800-2</Cellule>
+		<Longitude>-4.01482</Longitude>
+		<Latitude>5.31764</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>22.2</Hauteur>
+		<Azimut>255°</Azimut>
+		<Tilt>-2.1</Tilt>
+		<PIRE>41.74</PIRE>
+		<Perte>8.72572</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>693</BCCH>
+		<Frequences>~693/ 682/ 716/ 733~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BORIJA_1800-3</Cellule>
+		<Longitude>-4.01482</Longitude>
+		<Latitude>5.31764</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>22.22</Hauteur>
+		<Azimut>302°</Azimut>
+		<Tilt>-1.4</Tilt>
+		<PIRE>43.81</PIRE>
+		<Perte>7.76748</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>702</BCCH>
+		<Frequences>~702/ 700/ 722~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>BORIJA-2</Cellule>
+		<Longitude>-4.01482</Longitude>
+		<Latitude>5.31764</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>22.21</Hauteur>
+		<Azimut>255°</Azimut>
+		<PIRE>43.7291200297011</PIRE>
+		<Perte>7.77332</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>107</BCCH>
+		<Frequences>~107/ 89~</Frequences>
+	</record>
+	<record>
+		<Cellule>BORIJA-3</Cellule>
+		<Longitude>-4.01482</Longitude>
+		<Latitude>5.31764</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>22.23</Hauteur>
+		<Azimut>302°</Azimut>
+		<PIRE>43.6921585741014</PIRE>
+		<Perte>7.77916</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>117</BCCH>
+		<Frequences>~117/ 120~</Frequences>
+	</record>
+	<record>
+		<Cellule>CHARDY_1800-1</Cellule>
+		<Longitude>-4.01521667</Longitude>
+		<Latitude>5.32385833</Latitude>
+		<Type>KATHREIN-742047-WO4423615</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>170</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>43.8916608436453</PIRE>
+		<Perte>9.306</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>706</BCCH>
+		<Frequences>~706/ 698/ 690~</Frequences>
+	</record>
+	<record>
+		<Cellule>CHARDY_1800-2</Cellule>
+		<Longitude>-4.01521667</Longitude>
+		<Latitude>5.32385833</Latitude>
+		<Type>KATHREIN-742047-WO4423615</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>260</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>45.2244423350632</PIRE>
+		<Perte>9.306</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>720</BCCH>
+		<Frequences>~720/ 714/ 700/ 724~</Frequences>
+	</record>
+	<record>
+		<Cellule>CHARDY_1800-3</Cellule>
+		<Longitude>-4.01521667</Longitude>
+		<Latitude>5.32385833</Latitude>
+		<Type>KATHREIN-742047-WO4423615</Type>
+		<Hauteur>25.75</Hauteur>
+		<Azimut>330</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>45.3019969820308</PIRE>
+		<Perte>9.8765</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>734</BCCH>
+		<Frequences>~734/ 693/ 731/ 736~</Frequences>
+	</record>
+	<record>
+		<Cellule>CHARDY-1</Cellule>
+		<Longitude>-4.01521667</Longitude>
+		<Latitude>5.32385833</Latitude>
+		<Type>KATHREIN-742047-WO4423615</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>170</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.9269695325967</PIRE>
+		<Perte>8.296</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>114</BCCH>
+		<Frequences>~114/ 111~</Frequences>
+	</record>
+	<record>
+		<Cellule>CHARDY-2</Cellule>
+		<Longitude>-4.01521667</Longitude>
+		<Latitude>5.32385833</Latitude>
+		<Type>KATHREIN-742047-WO4423615</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>260</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.0823996531185</PIRE>
+		<Perte>8.296</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>117</BCCH>
+		<Frequences>~117/ 109/ 122~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>CHARDY-3</Cellule>
+		<Longitude>-4.01521667</Longitude>
+		<Latitude>5.32385833</Latitude>
+		<Type>KATHREIN-742047-WO4423615</Type>
+		<Hauteur>25.75</Hauteur>
+		<Azimut>330</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.1806333496276</PIRE>
+		<Perte>8.807</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>88</BCCH>
+		<Frequences>~88/ 85~</Frequences>
+	</record>
+	<record>
+		<Cellule>COCODY_1800-1</Cellule>
+		<Longitude>-4.00425</Longitude>
+		<Latitude>5.33968889</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>35.5</Hauteur>
+		<Azimut>80</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>46.2013605497376</PIRE>
+		<Perte>13.055</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>681</BCCH>
+		<Frequences>~681/ 686/ 688/ 710~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>COCODY_1800-2</Cellule>
+		<Longitude>-4.00425</Longitude>
+		<Latitude>5.33968889</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>35.5</Hauteur>
+		<Azimut>160</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>46.4246452024212</PIRE>
+		<Perte>13.055</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>697</BCCH>
+		<Frequences>~697/ 678/ 718/ 723~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>COCODY_1800-3</Cellule>
+		<Longitude>-4.00425</Longitude>
+		<Latitude>5.33968889</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>35.5</Hauteur>
+		<Azimut>280</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>44.996870826184</PIRE>
+		<Perte>13.055</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>736</BCCH>
+		<Frequences>~736/ 692/ 706~</Frequences>
+	</record>
+	<record>
+		<Cellule>COCODY-1</Cellule>
+		<Longitude>-4.00425</Longitude>
+		<Latitude>5.33968889</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>35.5</Hauteur>
+		<Azimut>80</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>45.3907609879278</PIRE>
+		<Perte>11.654</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>93</BCCH>
+		<Frequences>~93/ 104/ 113~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>COCODY-2</Cellule>
+		<Longitude>-4.00425</Longitude>
+		<Latitude>5.33968889</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>35.5</Hauteur>
+		<Azimut>160</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>44.0140054078154</PIRE>
+		<Perte>11.654</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>106</BCCH>
+		<Frequences>~106/ 111/ 117~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>COCODY-3</Cellule>
+		<Longitude>-4.00425</Longitude>
+		<Latitude>5.33968889</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>35.5</Hauteur>
+		<Azimut>280</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>44.5024910831936</PIRE>
+		<Perte>11.654</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>97</BCCH>
+		<Frequences>~97/ 86~</Frequences>
+	</record>
+	<record>
+		<Cellule>CULTURE-1</Cellule>
+		<Longitude>-4.01209</Longitude>
+		<Latitude>5.31053</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>18.9</Hauteur>
+		<Azimut>53°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>39.23</PIRE>
+		<Perte>7.6434</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>123</BCCH>
+		<Frequences>~123/ 110~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>CULTURE_1800-1</Cellule>
+		<Longitude>-4.01209</Longitude>
+		<Latitude>5.31053</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>18.9</Hauteur>
+		<Azimut>53°</Azimut>
+		<Tilt>0.6</Tilt>
+		<PIRE>45.0514997831991</PIRE>
+		<Perte>7.6434</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>717</BCCH>
+		<Frequences>~717/ 689/ 721/ 724~</Frequences>
+	</record>
+	<record>
+		<Cellule>CULTURE_1800-2</Cellule>
+		<Longitude>-4.01209</Longitude>
+		<Latitude>5.31053</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>18.9</Hauteur>
+		<Azimut>130°</Azimut>
+		<Tilt>-0.3</Tilt>
+		<PIRE>44.9136169383427</PIRE>
+		<Perte>7.6434</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>692</BCCH>
+		<Frequences>~692/ 683/ 686~</Frequences>
+	</record>
+	<record>
+		<Cellule>CULTURE_1800-3</Cellule>
+		<Longitude>-4.01209</Longitude>
+		<Latitude>5.31053</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>18.9</Hauteur>
+		<Azimut>300°</Azimut>
+		<Tilt>-0.1</Tilt>
+		<PIRE>43.4439227368511</PIRE>
+		<Perte>6.8068</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>712</BCCH>
+		<Frequences>~712/ 699/ 714~</Frequences>
+	</record>
+	<record>
+		<Cellule>CULTURE-2</Cellule>
+		<Longitude>-4.01209</Longitude>
+		<Latitude>5.31053</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>18.9</Hauteur>
+		<Azimut>130°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.01</PIRE>
+		<Perte>6.8068</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>117</BCCH>
+		<Frequences>~117/ 90/ 100~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>CULTURE-3</Cellule>
+		<Longitude>-4.01209</Longitude>
+		<Latitude>5.31053</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>18.9</Hauteur>
+		<Azimut>300°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>41.53</PIRE>
+		<Perte>6.8068</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>88</BCCH>
+		<Frequences>~88/ 94/ 114~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>FELICIA-1</Cellule>
+		<Longitude>-4.0179</Longitude>
+		<Latitude>5.3271</Latitude>
+		<Type>741336(Katrein)</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>162°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.5</PIRE>
+		<Perte>9.306</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>112</BCCH>
+		<Frequences>~112/ 92~</Frequences>
+	</record>
+	<record>
+		<Cellule>FELICIA_1800-1</Cellule>
+		<Longitude>-4.0179</Longitude>
+		<Latitude>5.3271</Latitude>
+		<Type>741336(Katrein)</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>162°</Azimut>
+		<Tilt>-3.3</Tilt>
+		<PIRE>43.5793484700045</PIRE>
+		<Perte>9.306</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>697</BCCH>
+		<Frequences>~697/ 710/ 726~</Frequences>
+	</record>
+	<record>
+		<Cellule>FELICIA_1800-2</Cellule>
+		<Longitude>-4.0179</Longitude>
+		<Latitude>5.3271</Latitude>
+		<Type>741336(Katrein)</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>250°</Azimut>
+		<Tilt>-3.1</Tilt>
+		<PIRE>43.541084391474</PIRE>
+		<Perte>9.306</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>729</BCCH>
+		<Frequences>~729/ 684/ 716~</Frequences>
+	</record>
+	<record>
+		<Cellule>FELICIA_1800-3</Cellule>
+		<Longitude>-4.0179</Longitude>
+		<Latitude>5.3271</Latitude>
+		<Type>741336(Katrein)</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>325°</Azimut>
+		<Tilt>-3.6</Tilt>
+		<PIRE>41.7609125905568</PIRE>
+		<Perte>8.296</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>702</BCCH>
+		<Frequences>~702/ 714/ 720~</Frequences>
+	</record>
+	<record>
+		<Cellule>FELICIA-2</Cellule>
+		<Longitude>-4.0179</Longitude>
+		<Latitude>5.3271</Latitude>
+		<Type>741336(Katrein)</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>250°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>41.39</PIRE>
+		<Perte>8.296</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>108</BCCH>
+		<Frequences>~108/ 105~</Frequences>
+	</record>
+	<record>
+		<Cellule>FELICIA-3</Cellule>
+		<Longitude>-4.0179</Longitude>
+		<Latitude>5.3271</Latitude>
+		<Type>741336(Katrein)</Type>
+		<Hauteur>24</Hauteur>
+		<Azimut>325°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.04</PIRE>
+		<Perte>8.296</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>116</BCCH>
+		<Frequences>~116/ 95~</Frequences>
+	</record>
+	<record>
+		<Cellule>FRATERNITE_1800-1</Cellule>
+		<Longitude>-4.02016111</Longitude>
+		<Latitude>5.34782778</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>22</Hauteur>
+		<Azimut>90</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.2813479402879</PIRE>
+		<Perte>8.654</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>684</BCCH>
+		<Frequences>~684/ 688/ 713/ 730~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>FRATERNITE_1800-2</Cellule>
+		<Longitude>-4.02016111</Longitude>
+		<Latitude>5.34782778</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>22</Hauteur>
+		<Azimut>220</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.5285303097989</PIRE>
+		<Perte>8.654</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>718</BCCH>
+		<Frequences>~718/ 724/ 715/ 698~</Frequences>
+	</record>
+	<record>
+		<Cellule>FRATERNITE_1800-3</Cellule>
+		<Longitude>-4.02016111</Longitude>
+		<Latitude>5.34782778</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>22</Hauteur>
+		<Azimut>355</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>45.6348108539441</PIRE>
+		<Perte>8.654</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>728</BCCH>
+		<Frequences>~728/ 692/ 706~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>FRATERNITE-1</Cellule>
+		<Longitude>-4.02016111</Longitude>
+		<Latitude>5.34782778</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>22</Hauteur>
+		<Azimut>100</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.1995574848976</PIRE>
+		<Perte>7.712</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>89</BCCH>
+		<Frequences>~89/ 100/ 122~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>FRATERNITE-2</Cellule>
+		<Longitude>-4.02016111</Longitude>
+		<Latitude>5.34782778</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>22</Hauteur>
+		<Azimut>220</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>42.718416065365</PIRE>
+		<Perte>7.712</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>106</BCCH>
+		<Frequences>~106/ 85~</Frequences>
+	</record>
+	<record>
+		<Cellule>FRATERNITE-3</Cellule>
+		<Longitude>-4.02016111</Longitude>
+		<Latitude>5.34782778</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>22</Hauteur>
+		<Azimut>355</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.4439227368511</PIRE>
+		<Perte>7.712</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>98</BCCH>
+		<Frequences>~98/ 92/ 111~</Frequences>
+	</record>
+	<record>
+		<Cellule>GRATRY_1800-1</Cellule>
+		<Longitude>-4.01174167</Longitude>
+		<Latitude>5.31988333</Latitude>
+		<Type>JAYBEAM-5860100-0158</Type>
+		<Hauteur>19.5</Hauteur>
+		<Azimut>20</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.6172783601759</PIRE>
+		<Perte>7.839</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>704</BCCH>
+		<Frequences>~704/ 717~</Frequences>
+	</record>
+	<record>
+		<Cellule>GRATRY_1800-2</Cellule>
+		<Longitude>-4.01174167</Longitude>
+		<Latitude>5.31988333</Latitude>
+		<Type>JAYBEAM-5860100-0158</Type>
+		<Hauteur>21.9</Hauteur>
+		<Azimut>165</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.8381536598043</PIRE>
+		<Perte>8.6214</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>736</BCCH>
+		<Frequences>~736/ 732/ 734~</Frequences>
+	</record>
+	<record>
+		<Cellule>GRATRY_1800-3</Cellule>
+		<Longitude>-4.01174167</Longitude>
+		<Latitude>5.31988333</Latitude>
+		<Type>JAYBEAM-5860100-0158</Type>
+		<Hauteur>20.5</Hauteur>
+		<Azimut>240</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.165</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>706</BCCH>
+		<Frequences>~706/ 677/ 728~</Frequences>
+	</record>
+	<record>
+		<Cellule>GRATRY-1</Cellule>
+		<Longitude>-4.01174167</Longitude>
+		<Latitude>5.31988333</Latitude>
+		<Type>JAYBEAM-5860100-0158</Type>
+		<Hauteur>19.5</Hauteur>
+		<Azimut>20</Azimut>
+		<Tilt>5</Tilt>
+		<PIRE>43.6921585741014</PIRE>
+		<Perte>6.982</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>108</BCCH>
+		<Frequences>~108/ 119~</Frequences>
+	</record>
+	<record>
+		<Cellule>GRATRY-3</Cellule>
+		<Longitude>-4.01174167</Longitude>
+		<Latitude>5.31988333</Latitude>
+		<Type>JAYBEAM-5860100-0158</Type>
+		<Hauteur>20.5</Hauteur>
+		<Azimut>240</Azimut>
+		<Tilt>5</Tilt>
+		<PIRE>43.654879848909</PIRE>
+		<Perte>7.274</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>111</BCCH>
+		<Frequences>~111/ 100~</Frequences>
+	</record>
+	<record>
+		<Cellule>GRATRY-2</Cellule>
+		<Longitude>-4.01174167</Longitude>
+		<Latitude>5.31988333</Latitude>
+		<Type>JAYBEAM-5860100-0158</Type>
+		<Hauteur>21.9</Hauteur>
+		<Azimut>165</Azimut>
+		<Tilt>5</Tilt>
+		<PIRE>43.6735592102602</PIRE>
+		<Perte>7.6828</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>95</BCCH>
+		<Frequences>~95/ 105~</Frequences>
+	</record>
+	<record>
+		<Cellule>INDENIE_1800-1</Cellule>
+		<Longitude>-4.01787608</Longitude>
+		<Latitude>5.32735657</Latitude>
+		<Type>KATHREIN-742047-W062286857</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>45</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>44.2160392686983</PIRE>
+		<Perte>8.002</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>686</BCCH>
+		<Frequences>~686/ 696/ 690~</Frequences>
+	</record>
+	<record>
+		<Cellule>INDENIE_1800-2</Cellule>
+		<Longitude>-4.01787608</Longitude>
+		<Latitude>5.32735657</Latitude>
+		<Type>KATHREIN-742047-W062286857</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>180</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>44.8429983934679</PIRE>
+		<Perte>8.002</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>692</BCCH>
+		<Frequences>~692/ 707/ 716/ 730~</Frequences>
+	</record>
+	<record>
+		<Cellule>INDENIE_1800-3</Cellule>
+		<Longitude>-4.01787608</Longitude>
+		<Latitude>5.32735657</Latitude>
+		<Type>KATHREIN-742047-W062286857</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>321</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>43.654879848909</PIRE>
+		<Perte>8.002</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>705</BCCH>
+		<Frequences>~705/ 718/ 724~</Frequences>
+	</record>
+	<record>
+		<Cellule>INDENIE-1</Cellule>
+		<Longitude>-4.01787608</Longitude>
+		<Latitude>5.32735657</Latitude>
+		<Type>KATHREIN-742047-W062286857</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>45</Azimut>
+		<Tilt>8</Tilt>
+		<PIRE>42.8555730900777</PIRE>
+		<Perte>7.128</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>117</BCCH>
+		<Frequences>~117/ 115~</Frequences>
+	</record>
+	<record>
+		<Cellule>INDENIE-2</Cellule>
+		<Longitude>-4.01787608</Longitude>
+		<Latitude>5.32735657</Latitude>
+		<Type>KATHREIN-742047-W062286857</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>180</Azimut>
+		<Tilt>8</Tilt>
+		<PIRE>42.9003461136252</PIRE>
+		<Perte>7.128</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>87</BCCH>
+		<Frequences>~87/ 123/ 110~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>INDENIE-3</Cellule>
+		<Longitude>-4.01787608</Longitude>
+		<Latitude>5.32735657</Latitude>
+		<Type>KATHREIN-742047-W062286857</Type>
+		<Hauteur>20</Hauteur>
+		<Azimut>321</Azimut>
+		<Tilt>8</Tilt>
+		<PIRE>42.5767857486918</PIRE>
+		<Perte>7.128</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>104</BCCH>
+		<Frequences>~104/ 119~</Frequences>
+	</record>
+	<record>
+		<Cellule>IVOIR_1800-1</Cellule>
+		<Longitude>-4.00030144</Longitude>
+		<Latitude>5.33000847</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>19</Hauteur>
+		<Azimut>40</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.4439227368511</PIRE>
+		<Perte>7.676</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>699</BCCH>
+		<Frequences>~699/ 703/ 715~</Frequences>
+	</record>
+	<record>
+		<Cellule>IVOIR_1800-2</Cellule>
+		<Longitude>-4.00030144</Longitude>
+		<Latitude>5.33000847</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>19</Hauteur>
+		<Azimut>180</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.5793484700045</PIRE>
+		<Perte>7.676</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>681</BCCH>
+		<Frequences>~681/ 713/ 723~</Frequences>
+	</record>
+	<record>
+		<Cellule>IVOIR_1800-3</Cellule>
+		<Longitude>-4.00030144</Longitude>
+		<Latitude>5.33000847</Latitude>
+		<Type>K_741-336_T6_1800_CI\K_741-336_T6_1800_CI</Type>
+		<Hauteur>19</Hauteur>
+		<Azimut>270</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.1597034545692</PIRE>
+		<Perte>7.676</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>690</BCCH>
+		<Frequences>~690/ 685/ 711~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>IVOIR-1</Cellule>
+		<Longitude>-4.00030144</Longitude>
+		<Latitude>5.33000847</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>19</Hauteur>
+		<Azimut>40</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.6921585741014</PIRE>
+		<Perte>6.836</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>99</BCCH>
+		<Frequences>~99/ 90~</Frequences>
+	</record>
+	<record>
+		<Cellule>IVOIR-2</Cellule>
+		<Longitude>-4.00030144</Longitude>
+		<Latitude>5.33000847</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>19</Hauteur>
+		<Azimut>180</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.6921585741014</PIRE>
+		<Perte>6.836</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>120</BCCH>
+		<Frequences>~120/ 110~</Frequences>
+	</record>
+	<record>
+		<Cellule>IVOIR-3</Cellule>
+		<Longitude>-4.00030144</Longitude>
+		<Latitude>5.33000847</Latitude>
+		<Type>K_739-636_T6_900_CI\K_739-636_T6_900_CI</Type>
+		<Hauteur>19</Hauteur>
+		<Azimut>270</Azimut>
+		<Tilt>6</Tilt>
+		<PIRE>43.9967372148104</PIRE>
+		<Perte>6.836</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>122</BCCH>
+		<Frequences>~124/ 122~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>OITH-1</Cellule>
+		<Longitude>-4.01156</Longitude>
+		<Latitude>5.32125</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>10.41</Hauteur>
+		<Azimut>190°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.6921585741014</PIRE>
+		<Perte>4.8724</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>116</BCCH>
+		<Frequences>~116/ 113~</Frequences>
+	</record>
+	<record>
+		<Cellule>OITH_1800-1</Cellule>
+		<Longitude>-4.01156</Longitude>
+		<Latitude>5.32125</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>10.4</Hauteur>
+		<Azimut>190°</Azimut>
+		<Tilt>-2.8</Tilt>
+		<PIRE>42.41</PIRE>
+		<Perte>4.87892</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>695</BCCH>
+		<Frequences>~695/ 692~</Frequences>
+	</record>
+	<record>
+		<Cellule>OITH_1800-2</Cellule>
+		<Longitude>-4.01156</Longitude>
+		<Latitude>5.32125</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>10.42</Hauteur>
+		<Azimut>306°</Azimut>
+		<Tilt>-1.3</Tilt>
+		<PIRE>40.79</PIRE>
+		<Perte>4.32772</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>679</BCCH>
+		<Frequences>~679/ 684/ 687~</Frequences>
+	</record>
+	<record>
+		<Cellule>OITH-2</Cellule>
+		<Longitude>-4.01156</Longitude>
+		<Latitude>5.32125</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>10.43</Hauteur>
+		<Azimut>306°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.04</PIRE>
+		<Perte>4.33356</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>124</BCCH>
+		<Frequences>~124/ 103~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>PISAM_1800-1</Cellule>
+		<Longitude>-4.01168056</Longitude>
+		<Latitude>5.33611111</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>110</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.7646180417324</PIRE>
+		<Perte>11.262</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>729</BCCH>
+		<Frequences>~729/ 713/ 690~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>PISAM_1800-2</Cellule>
+		<Longitude>-4.01168056</Longitude>
+		<Latitude>5.33611111</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>240</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.541084391474</PIRE>
+		<Perte>11.262</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>705</BCCH>
+		<Frequences>~705/ 725/ 722~</Frequences>
+	</record>
+	<record>
+		<Cellule>PISAM_1800-3</Cellule>
+		<Longitude>-4.01168056</Longitude>
+		<Latitude>5.33611111</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>350</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.2221929473392</PIRE>
+		<Perte>11.262</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>681</BCCH>
+		<Frequences>~681/ 688/ 702~</Frequences>
+	</record>
+	<record>
+		<Cellule>PISAM-1</Cellule>
+		<Longitude>-4.01168056</Longitude>
+		<Latitude>5.33611111</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>110</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>41.9033169817029</PIRE>
+		<Perte>10.048</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>98</BCCH>
+		<Frequences>~98/ 104~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>PISAM-2</Cellule>
+		<Longitude>-4.01168056</Longitude>
+		<Latitude>5.33611111</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>240</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>42.6007138798507</PIRE>
+		<Perte>10.048</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>109</BCCH>
+		<Frequences>~109/ 101~</Frequences>
+	</record>
+	<record>
+		<Cellule>PISAM-3</Cellule>
+		<Longitude>-4.01168056</Longitude>
+		<Latitude>5.33611111</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>350</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.0535136944662</PIRE>
+		<Perte>10.048</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>121</BCCH>
+		<Frequences>~121/ 93~</Frequences>
+	</record>
+	<record>
+		<Cellule>PRESIDENCE_1800-1</Cellule>
+		<Longitude>-3.99409798</Longitude>
+		<Latitude>5.32760346</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>23</Hauteur>
+		<Azimut>50</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.98</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>708</BCCH>
+		<Frequences>~708/ 731~</Frequences>
+	</record>
+	<record>
+		<Cellule>PRESIDENCE_1800-2</Cellule>
+		<Longitude>-3.99409798</Longitude>
+		<Latitude>5.32760346</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>23</Hauteur>
+		<Azimut>135</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.98</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>703</BCCH>
+		<Frequences>~703/ 682/ 714~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>PRESIDENCE_1800-3</Cellule>
+		<Longitude>-3.99409798</Longitude>
+		<Latitude>5.32760346</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>23</Hauteur>
+		<Azimut>270</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.98</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>728</BCCH>
+		<Frequences>~728/ 701~</Frequences>
+	</record>
+	<record>
+		<Cellule>PRESIDENCE-1</Cellule>
+		<Longitude>-3.99409798</Longitude>
+		<Latitude>5.32760346</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>23</Hauteur>
+		<Azimut>50</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.004</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>95</BCCH>
+		<Frequences>~95/ 98~</Frequences>
+	</record>
+	<record>
+		<Cellule>PRESIDENCE-2</Cellule>
+		<Longitude>-3.99409798</Longitude>
+		<Latitude>5.32760346</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>23</Hauteur>
+		<Azimut>135</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.004</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>121</BCCH>
+		<Frequences>~121/ 118~</Frequences>
+	</record>
+	<record>
+		<Cellule>PRESIDENCE-3</Cellule>
+		<Longitude>-3.99409798</Longitude>
+		<Latitude>5.32760346</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>23</Hauteur>
+		<Azimut>270</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>8.004</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>86</BCCH>
+		<Frequences>~86/ 115~</Frequences>
+	</record>
+	<record>
+		<Cellule>RESERVE-1</Cellule>
+		<Longitude>-4.02101</Longitude>
+		<Latitude>5.33083</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>50</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>43.4439227368511</PIRE>
+		<Perte>11.262</Perte>
+		<Gain>17</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>120</BCCH>
+		<Frequences>~120/ 90/ 113~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RESERVE_1800-1</Cellule>
+		<Longitude>-4.02101</Longitude>
+		<Latitude>5.33083</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>30</Hauteur>
+		<Azimut>50</Azimut>
+		<Tilt>-1</Tilt>
+		<PIRE>42.31</PIRE>
+		<Perte>8.491</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>677</BCCH>
+		<Frequences>~677/ 698/ 717/ 724~</Frequences>
+	</record>
+	<record>
+		<Cellule>RESERVE_1800-2</Cellule>
+		<Longitude>-4.02101</Longitude>
+		<Latitude>5.33083</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>21.5</Hauteur>
+		<Azimut>170°</Azimut>
+		<Tilt>-2.6</Tilt>
+		<PIRE>42.41</PIRE>
+		<Perte>8.491</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>691</BCCH>
+		<Frequences>~691/ 680/ 735~</Frequences>
+	</record>
+	<record>
+		<Cellule>RESERVE_1800-3</Cellule>
+		<Longitude>-4.02101</Longitude>
+		<Latitude>5.33083</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>21.5</Hauteur>
+		<Azimut>300°</Azimut>
+		<Tilt>-2.7</Tilt>
+		<PIRE>43.01</PIRE>
+		<Perte>10.048</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>728</BCCH>
+		<Frequences>~728/ 722/ 696/ 688~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RESERVE-2</Cellule>
+		<Longitude>-4.02101</Longitude>
+		<Latitude>5.33083</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>21.5</Hauteur>
+		<Azimut>170°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.2788670461367</PIRE>
+		<Perte>7.566</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>106</BCCH>
+		<Frequences>~106/ 85~</Frequences>
+	</record>
+	<record>
+		<Cellule>RESERVE-3</Cellule>
+		<Longitude>-4.02101</Longitude>
+		<Latitude>5.33083</Latitude>
+		<Type>742047(kathrein)</Type>
+		<Hauteur>21.5</Hauteur>
+		<Azimut>300°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.09</PIRE>
+		<Perte>7.566</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>117</BCCH>
+		<Frequences>~117/ 115/ 93~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RUE_12-1</Cellule>
+		<Longitude>-4.01281</Longitude>
+		<Latitude>5.30747</Latitude>
+		<Type>5860100(JayBeam)</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>60°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>41.76</PIRE>
+		<Perte>9.632</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>103</BCCH>
+		<Frequences>~103/ 85~</Frequences>
+	</record>
+	<record>
+		<Cellule>RUE_12_1800-1</Cellule>
+		<Longitude>-4.01281</Longitude>
+		<Latitude>5.30747</Latitude>
+		<Type>5860100(JayBeam)</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>60°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.9136169383427</PIRE>
+		<Perte>9.632</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>708</BCCH>
+		<Frequences>~708/ 716/ 730~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RUE_12_1800-2</Cellule>
+		<Longitude>-4.01281</Longitude>
+		<Latitude>5.30747</Latitude>
+		<Type>5860100(JayBeam)</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>160°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.98</PIRE>
+		<Perte>9.632</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>698</BCCH>
+		<Frequences>~698/ 694/ 706~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RUE_12_1800-3</Cellule>
+		<Longitude>-4.01281</Longitude>
+		<Latitude>5.30747</Latitude>
+		<Type>5860100(JayBeam)</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>250°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>40.82</PIRE>
+		<Perte>8.588</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>721</BCCH>
+		<Frequences>~721/ 679/ 685~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RUE_12-2</Cellule>
+		<Longitude>-4.01281</Longitude>
+		<Latitude>5.30747</Latitude>
+		<Type>5860100(JayBeam)</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>160°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>45.1054501020661</PIRE>
+		<Perte>8.588</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>122</BCCH>
+		<Frequences>~122/ 116/ 120~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>RUE_12-3</Cellule>
+		<Longitude>-4.01281</Longitude>
+		<Latitude>5.30747</Latitude>
+		<Type>5860100(JayBeam)</Type>
+		<Hauteur>25</Hauteur>
+		<Azimut>250°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.08</PIRE>
+		<Perte>8.588</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>101</BCCH>
+		<Frequences>~101/ 110/ 112~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>ST_JEAN_1800-1</Cellule>
+		<Longitude>-4.00135833</Longitude>
+		<Latitude>5.33433056</Latitude>
+		<Type>K_742047_T2_1800_CI\K_742047_T2_1800_CI</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>75</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>43.2221929473392</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>695</BCCH>
+		<Frequences>~695/ 719/ 722~</Frequences>
+	</record>
+	<record>
+		<Cellule>ST_JEAN_1800-2</Cellule>
+		<Longitude>-4.00135833</Longitude>
+		<Latitude>5.33433056</Latitude>
+		<Type>K_742047_T2_1800_CI\K_742047_T2_1800_CI</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>175</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>44.3616264704076</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>684</BCCH>
+		<Frequences>~684/ 692/ 727~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>ST_JEAN_1800-3</Cellule>
+		<Longitude>-4.00135833</Longitude>
+		<Latitude>5.33433056</Latitude>
+		<Type>K_742047_T2_1800_CI\K_742047_T2_1800_CI</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>275</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>43.9093510710338</PIRE>
+		<Perte>10.61</Perte>
+		<Gain>18</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>700</BCCH>
+		<Frequences>~700/ 687/ 716~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>ST_JEAN-1</Cellule>
+		<Longitude>-4.00135833</Longitude>
+		<Latitude>5.33433056</Latitude>
+		<Type>K_742047_T2_900_CI\K_742047_T2_900_CI</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>75</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>44.0140054078154</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>102</BCCH>
+		<Frequences>~102/ 100~</Frequences>
+	</record>
+	<record>
+		<Cellule>ST_JEAN-2</Cellule>
+		<Longitude>-4.00135833</Longitude>
+		<Latitude>5.33433056</Latitude>
+		<Type>K_742047_T2_900_CI\K_742047_T2_900_CI</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>175</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>43.9794000867204</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>104</BCCH>
+		<Frequences>~104/ 113~</Frequences>
+	</record>
+	<record>
+		<Cellule>ST_JEAN-3</Cellule>
+		<Longitude>-4.00135833</Longitude>
+		<Latitude>5.33433056</Latitude>
+		<Type>K_742047_T2_900_CI\K_742047_T2_900_CI</Type>
+		<Hauteur>28</Hauteur>
+		<Azimut>275</Azimut>
+		<Tilt>2</Tilt>
+		<PIRE>44.3775056282039</PIRE>
+		<Perte>9.464</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>90</BCCH>
+		<Frequences>~90/ 119~</Frequences>
+	</record>
+	<record>
+		<Cellule>STADE-1</Cellule>
+		<Longitude>-4.02001</Longitude>
+		<Latitude>5.32741</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>29</Hauteur>
+		<Azimut>20°</Azimut>
+		<PIRE>42.98</PIRE>
+		<Perte>10.936</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>109</BCCH>
+		<Frequences>~109/ 98~</Frequences>
+	</record>
+	<record>
+		<Cellule>STADE_1800-1</Cellule>
+		<Longitude>-4.02001</Longitude>
+		<Latitude>5.32741</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>29</Hauteur>
+		<Azimut>20°</Azimut>
+		<Tilt>-3</Tilt>
+		<PIRE>43.0319605742049</PIRE>
+		<Perte>10.936</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>695</BCCH>
+		<Frequences>~695/ 733/ 678~</Frequences>
+	</record>
+	<record>
+		<Cellule>STADE_1800-2</Cellule>
+		<Longitude>-4.02001</Longitude>
+		<Latitude>5.32741</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>29</Hauteur>
+		<Azimut>166°</Azimut>
+		<Tilt>-0.6</Tilt>
+		<PIRE>44.6089784275655</PIRE>
+		<Perte>10.936</Perte>
+		<Gain>18</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>731</BCCH>
+		<Frequences>~731/ 700/ 723/ 711~</Frequences>
+	</record>
+	<record>
+		<Cellule>STADE_1800-3</Cellule>
+		<Longitude>-4.02001</Longitude>
+		<Latitude>5.32741</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>29</Hauteur>
+		<Azimut>285°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.6389298898591</PIRE>
+		<Perte>9.756</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>704</BCCH>
+		<Frequences>~704/ 685/ 687/ 726~</Frequences>
+	</record>
+	<record>
+		<Cellule>STADE-2</Cellule>
+		<Longitude>-4.02001</Longitude>
+		<Latitude>5.32741</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>29</Hauteur>
+		<Azimut>166°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>42.98</PIRE>
+		<Perte>9.756</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>114</BCCH>
+		<Frequences>~114/ 111~</Frequences>
+	</record>
+	<record>
+		<Cellule>STADE-3</Cellule>
+		<Longitude>-4.02001</Longitude>
+		<Latitude>5.32741</Latitude>
+		<Type>742047(Kathrein)</Type>
+		<Hauteur>29</Hauteur>
+		<Azimut>285°</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>41.88</PIRE>
+		<Perte>9.756</Perte>
+		<Gain>17</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>123</BCCH>
+		<Frequences>~123/ 93/ 100~</Frequences>
+	</record>
+	<record>
+		<Cellule>STE_MARIE_1800-1</Cellule>
+		<Longitude>-3.99765278</Longitude>
+		<Latitude>5.33503056</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>27</Hauteur>
+		<Azimut>90</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>45.8994960132571</PIRE>
+		<Perte>10.284</Perte>
+		<Gain>18.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>685</BCCH>
+		<Frequences>~685/ 689/ 706~</Frequences>
+	</record>
+	<record>
+		<Cellule>STE_MARIE_1800-2</Cellule>
+		<Longitude>-3.99765278</Longitude>
+		<Latitude>5.33503056</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>27</Hauteur>
+		<Azimut>210</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>44.6834733041216</PIRE>
+		<Perte>10.284</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>680</BCCH>
+		<Frequences>~680/ 696/ 702~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>STE_MARIE_1800-3</Cellule>
+		<Longitude>-3.99765278</Longitude>
+		<Latitude>5.33503056</Latitude>
+		<Type>JAYBEAM_5860100_1800\5860100_1800</Type>
+		<Hauteur>27</Hauteur>
+		<Azimut>290</Azimut>
+		<Tilt>0</Tilt>
+		<PIRE>46.1278385671974</PIRE>
+		<Perte>10.284</Perte>
+		<Gain>18.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>683</BCCH>
+		<Frequences>~683/ 714/ 720/ 730~</Frequences>
+		<HSN>0</HSN>
+	</record>
+	<record>
+		<Cellule>STE_MARIE-1</Cellule>
+		<Longitude>-3.99765278</Longitude>
+		<Latitude>5.33503056</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>27</Hauteur>
+		<Azimut>90</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.9269695325967</PIRE>
+		<Perte>9.172</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>105</BCCH>
+		<Frequences>~105/ 89/ 122~</Frequences>
+	</record>
+	<record>
+		<Cellule>STE_MARIE-2</Cellule>
+		<Longitude>-3.99765278</Longitude>
+		<Latitude>5.33503056</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>27</Hauteur>
+		<Azimut>210</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>43.1806333496276</PIRE>
+		<Perte>9.172</Perte>
+		<Gain>17.5</Gain>
+		<SFH>pas de saut</SFH>
+		<BCCH>107</BCCH>
+		<Frequences>~107/ 94~</Frequences>
+	</record>
+	<record>
+		<Cellule>STE_MARIE-3</Cellule>
+		<Longitude>-3.99765278</Longitude>
+		<Latitude>5.33503056</Latitude>
+		<Type>JAYBEAM_5860100_900\5860100_900</Type>
+		<Hauteur>27</Hauteur>
+		<Azimut>290</Azimut>
+		<Tilt>1</Tilt>
+		<PIRE>44.5178643552429</PIRE>
+		<Perte>9.172</Perte>
+		<Gain>17.5</Gain>
+		<SFH>bande de base</SFH>
+		<BCCH>87</BCCH>
+		<Frequences>~87/ 96/ 98~</Frequences>
+		<HSN>0</HSN>
+	</record>
+</data-set>

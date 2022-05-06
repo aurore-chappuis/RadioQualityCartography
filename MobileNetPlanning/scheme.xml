@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+       <Cellule>ANAULICE_1800-1</Cellule>
+	   <Longitude>-400699167</Longitude>
+	   <Latitude>5,34290556</Latitude>
+	   <Type>K_742047_1800_CI\K_742047_1800_CI</Type>
+       <Hauteur>16</Hauteur>
+       <Azimut>40</Azimut>
+       <Tilt>2</Tilt>
+	   <PIRE>422271647114758</PIRE>
+	   <Perte>6698</Perte>
+	   <Gain>18</Gain>
+	   <SFH>bande de base</SFH>
+	   <BCCH>723</BCCH>
+	   <Frequences>~723/ 725/ 713~</Frequences>
+	   <HSN>0</HSN>
+    </record>
+    <record>
+		<Cellule>ANAULICE_1800-2</Cellule>
+	   <Longitude>-400699167</Longitude>
+	   <Latitude>5,34290556</Latitude>
+       <Type>K_742047_1800_CI\K_742047_1800_CI</Type>
+       <Hauteur>16</Hauteur>
+       <Azimut>170</Azimut>
+       <Tilt>2</Tilt>
+	   <PIRE>426007138798507</PIRE>
+	   <Perte>6,698</Perte>
+	   <Gain>18</Gain>
+	   <SFH>pas de saut</SFH>
+	   <BCCH>696</BCCH>
+	   <Frequences>~696/ 711/ 733~</Frequences>
+	   <HSN>0</HSN>
+    </record>
+</data-set>

@@ -1,0 +1,17 @@
+<script src="jquery.min.js"></script>
+
+<script type="text/javascript">
+
+function clique(){
+var xml = "<music><album><Auteur>Beethoven</Auteur><Type>Classique</Type></album><album><Auteur>Mozare</Auteur><Type>Classique</Type></album></music>";
+//recuperer les albums
+var r = $(xml).find("album");
+
+var nombre=r[0].getElementsByTagName("Auteur")[0].firstChild.nodeValue ;
+document.getElementById('album').value=nombre;
+}
+</script>
+
+<body>
+	<div> <input type="button" id="album" onclick="clique()" value="0"> </div>
+</body>

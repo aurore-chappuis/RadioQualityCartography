@@ -398,6 +398,7 @@
 		document.getElementById('cartehandover').disabled='';
 		document.getElementById('carteCell').disabled='';
 		document.getElementById('carteresidence').disabled='';
+		document.getElementById('carteRadioConstraints').disabled='';
 		document.getElementById('propag').disable='';
 	}
 	//function returning an RGB color according to a given value p
@@ -796,6 +797,7 @@
 		document.getElementById('cartehandover').disabled='disabled';
 		document.getElementById('carteCell').disabled='disabled';
 		document.getElementById('carteresidence').disabled='disabled';
+		document.getElementById('carteRadioConstraints').disabled='disabled';
 	}
 	function displayElevation(){
 		document.getElementById('message').value="click  on the point for which you want know the elevation";
@@ -864,6 +866,7 @@
 		document.getElementById('cartehandover').disabled='disabled';
 		document.getElementById('carteCell').disabled='disabled';
 		document.getElementById('carteresidence').disabled='disabled';
+		document.getElementById('carteRadioConstraints').disabled='disabled';
 	}
 
 	
@@ -918,6 +921,7 @@
 		document.getElementById('cartehandover').disabled='disabled';
 		document.getElementById('carteCell').disabled='disabled';
 		document.getElementById('carteresidence').disabled='disabled';
+		document.getElementById('carteRadioConstraints').disabled='disabled';
 	}
 	function choixcarto(){
 		rep=confirm("Transparent pour les zones hors qualityThresholds ?");
@@ -1479,7 +1483,22 @@
 			return 20 * Math.log10(0.225 / v);
 		}
 	}
+
+	/**
+	 * Handover cartography to implement
+	 */
+	function cartehandover()
+	{
+
+	}
 	
+	/**
+	 * Radio constraints cartography to implement
+	 */
+	function carteRadioConstraints()
+	{
+
+	}
 	
 	
 	//google.maps.event.addDomListener(window, 'load', initialize);
@@ -1523,6 +1542,8 @@
 		  <div> <input type="button" id="cartehandover" value="Cartography of handover" onclick="cartehandover()" disabled='disabled' style="width: 98%;"/></div>
 		  <div> <input type="button" id="carteCell" value="Cartography of Cells" onclick="carteCell()" disabled='disabled' style="width: 98%;"/></div>
 		  <div> <input type="button" id="carteresidence" value="Residance time" onclick="carteresidence()" disabled='disabled' style="width: 98%;"/></div>
+		  <!-- New HTML code for a new button -->
+		  <div> <input type="button" id="carteRadioConstraints" value="Cartography of radio constraints" onclick="carteRadioConstraints()" disabled='disabled' style="width: 98%;"/></div>
 		  <div id="frameantenna">
 				<label id="labomni">Omni : </label>
 				<input type="radio" name="omni" id="omni" value="omni" />

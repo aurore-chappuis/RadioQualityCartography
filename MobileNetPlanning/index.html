@@ -93,7 +93,7 @@
 	var architecture = [];	//elevation of the buildings 
 	var elevation=[];	//the total elevation of natural landscape and buildings
 	
-	var frequencySpectrum,qualityThreshold;  // radio interface characteristics : quality threshold and frequency band
+	var frequencySpectrum,qualityThreshold,serviceThreshold;  // radio interface characteristics : quality threshold and frequency band
 	var antenne;
 	var CCost=0;
 	var carto=false;
@@ -1487,9 +1487,56 @@
 	/**
 	 * Handover cartography to implement
 	 */
-	function cartehandover()
-	{
+	function cartehandover(){
 
+		vider();
+		qualityThreshold=parseInt(document.getElementById('qualityThreshold').value);
+		serviceThreshold=parseInt(document.getElementById('serviceThreshold').value);
+		southCornerlat=southCorner.lat;
+		southCornerlng=southCorner.lng;
+
+		for(i=0;i<areaHeight ;i++){
+			for(j=0;j<areaWidth ;j++){
+
+				max=-1000;
+				bestant=-1;
+				nbgoodsignals=0;
+				for(a=0;a<nbantennas;a++){
+					if(power[a][i][j]>max) {max=power[a][i][j];	bestant=a;}
+					if(power[a][i][j]>serviceThreshold) {nbgoodsignals = nbgoodsignals + 1}
+				}
+				if(max<qualityThreshold) continue;
+
+				// Coordonnées du point sud ouest
+				plat=southCornerlat+i*latBin;
+				plng=southCornerlng+j*lngBin;
+				
+				// definition des couleurs https://www.rapidtables.com/web/color/RGB_Color.html
+
+				// Les couleurs sont a changer car pas terrible
+				if(nbgoodsignals>=6) {r=255;v=0;b=0;} // + de 6 bons signaux = rouge
+				else if(nbgoodsignals>=2) {r=255;v=0;b=255;} // entre 5 et 2 bons signaux = rose
+				else if(nbgoodsignals>=0) {r=0;v=255;b=0;} // entre 1 et 0 bons signaux = vert
+				else {r=51;v=1;b=250;} // Si rien : bleu
+				
+				if(r<16)strred="0"+r.toString(16); else strred=r.toString(16);
+				if(b<16)strblue="0"+b.toString(16); else strblue=b.toString(16);
+				if(v<16)strgreen="0"+v.toString(16); else strgreen=v.toString(16);
+
+				couleur="#"+strred+strgreen+strblue;
+						
+				//affiche la carte comme carte interference
+				var bin = L.polygon([
+					[plat, plng],
+					[plat+latBin, plng],
+					[plat+latBin, plng+lngBin],
+					[plat, plng+lngBin]
+					],{fillColor: couleur,
+						fillOpacity: 1,
+						color : 'transparent'}).addTo(mymap);
+				bins.push(bin);
+			}
+		}
 	}
 	
 	/**
@@ -1523,6 +1570,8 @@
 			</select>
 			<div><label id="labelfrequencySpectrum"  style="width: 50%;">Band(Mhz) : </label><input type="number" id="frequencySpectrum" name="frequencySpectrum" value="1800" align="right" style="width: 50%;"></div>
 			<div><label id="labelqualityThreshold" style="width: 50%;">Quality Threshold (Db) : </label><input type="number" id="qualityThreshold" name="qualityThreshold" value="-100" style="width: 50%;"></div>
+			<!-- New HTML code for a new button -->
+			<div><label id="labelserviceThreshold" style="width: 50%;">Service Threshold (Db) : </label><input type="number" id="serviceThreshold" name="serviceThreshold" value="-100" style="width: 50%;"></div>
 			<div> <label id="labelareaHeight " style="width: 30%;">Area Height (10m) : </label><input type="number" id="areaHeight " name="areaHeight " value="200" style="width: 20%;"></div>
 			<div> <label id="labelareaWidth " style="width: 30%;">Area Width (10m) : </label><input type="number" id="areaWidth " name="areaWidth " value="200" style="width: 20%;"></div>
 			<div><label id="labelmodele">Propagation model: </label></div>

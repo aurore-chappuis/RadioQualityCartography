@@ -1546,40 +1546,42 @@
 	{
                 vider();
 		qualityThreshold=parseInt(document.getElementById('qualityThreshold').value);
-		southCornerlat=southCorner.lat;
-       		southCornerlng=southCorner.lng;
-        	for(var a=0;a<nbantennas-1;a++)
-		{
-            		for(var b=a+1;b<nbantenas;b++)
-			{
-                		var count = 0;//we use the count to check the overlap,if it up to 1000,so the overlap area is grand
-		        	for(i=0;i<areaHeight ;i++)
-               	 		{
-			        	for(j=0;j<areaWidth ;j++)
-                   			{
-                        			var int = 0;//we use this value to memorise the inteference of two antennas
-                        			a_power=power[a][i][j];
-                        			b_power=power[b][i][j];
-						int = a_power/b_power;
-                        			if(int>0.9&&int<1.1){count++;}
-                    			}
-                			plat=southCorner.lat+i*latBin;
+		for(var a=0;a<nbantennas;a++){
+				var degree=0;
+			for(var c=0;c<nbantennas;c++){
+				degree= 0;
+				for(i=0;i<areaHeight;i++){
+					for(j=0;j<areaWidth;j++){
+						divisor=power[a][i][j]/power[c][i][j]
+						if(divisor>0.98 && divisor<1.02){
+							degree+=1;
+
+						}
+					}
+					plat=southCorner.lat+i*latBin;
 					plng=southCorner.lng+j*lngBin;
-                		}
-                		antenna_a_Location=antennas[a].location;
-                		antenna_b_Location=antennas[b].location;
-                		//if(count>1000){createStraightLineFormula(antenna_a_Location.lat,antenna_a_Location.lng,antenna_b_Location.lat,antenna_b_Location.lng);}
-				//affiche la carte comme carte interference
-				var bin = L.polygon([
-					[plat, plng],
-					[plat+latBin, plng],
-					[plat+latBin, plng+lngBin],
-					[plat, plng+lngBin]
+
+					var bin = L.polygon([
+						[plat, plng],
+						[plat+latBin, plng],
+						[plat+latBin, plng+lngBin],
+						[plat, plng+lngBin]
 					],{fillColor: couleur,
 						fillOpacity: 1,
 						color : 'transparent'}).addTo(mymap);
-				bins.push(bin);
-            		}
+					bins.push(bin);
+					
+				}
+
+				if(degree>=6000){
+					antennaLocationA= antennas[a].location;
+					antennaLocationB= antennas[c].location;
+					var latlngs = [[antennaLocationA.lat, antennaLocationA.lng],[antennaLocationB.lat, antennaLocationB.lng]];
+					var polyline = L.polyline(latlngs,{color:'red'}).addTo(mymap);
+				}
+
+			}
+
 		}
 	}
 	

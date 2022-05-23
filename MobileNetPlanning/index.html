@@ -1547,14 +1547,14 @@
                 vider();
 		qualityThreshold=parseInt(document.getElementById('qualityThreshold').value);
 		for(var a=0;a<nbantennas;a++){
-				var degree=0;
+				var degree=0;//we use the degree to check the overlap,if it up to 6000,so the overlap area is grand
 			for(var c=0;c<nbantennas;c++){
 				degree= 0;
 				for(i=0;i<areaHeight;i++){
 					for(j=0;j<areaWidth;j++){
-						divisor=power[a][i][j]/power[c][i][j]
+						divisor=power[a][i][j]/power[c][i][j]//we use this value divisor to memorise the inteference of two antennas
 						if(divisor>0.98 && divisor<1.02){
-							degree+=1;
+							degree+=1;//if the divisor close to 1,it means the inteference is important
 
 						}
 					}

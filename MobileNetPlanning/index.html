@@ -94,11 +94,14 @@
 	var elevation=[];	//the total elevation of natural landscape and buildings
 	
 	var frequencySpectrum,qualityThreshold,serviceThreshold, ToleratedInterferenceLevel;  // radio interface characteristics : quality threshold and frequency band
+
+	var polylines = [];
 	var antenne;
 	var CCost=0;
 	var carto=false;
 	var a;
 	var angleindex;
+
 
 	var firstpropag=true //the relief table should be normalized at the beginning
 	function AntennaConstructor(location, omni, tilt, azimut, pow)
@@ -787,10 +790,7 @@
 				bins.pop().remove();
 		}
 
-		//latlngs = [];
-		//if(polyline){
-		//	map.removeLayer(polyline);
-		//}
+		polylines.forEach(function (item) {mymap.removeLayer(item)});
 		
 	}
 		
@@ -1597,6 +1597,7 @@
 					antennaLocationB= antennas[c].location;
 					var latlngs = [[antennaLocationA.lat, antennaLocationA.lng],[antennaLocationB.lat, antennaLocationB.lng]];
 					var polyline = L.polyline(latlngs,{color:'red'}).addTo(mymap);
+					polylines.push(polyline);
 				}
 
 			}
